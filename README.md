@@ -3,3 +3,7 @@ git zkušební
 
 ## Druhé cvičení
 Změna do Githubu Lorem Ipsum
+další změna
+
+## Third excercise
+new member
